@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e3ea72d75408f2baed14",
+    "revision": "309c49d13772b0a12af0",
     "url": "/react_pwa/static/css/main.b0e98b75.chunk.css"
   },
   {
-    "revision": "e3ea72d75408f2baed14",
-    "url": "/react_pwa/static/js/main.e3ea72d7.chunk.js"
+    "revision": "309c49d13772b0a12af0",
+    "url": "/react_pwa/static/js/main.309c49d1.chunk.js"
   },
   {
     "revision": "46ee9c4195611a72763b",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react_pwa/static/media/SEGA.12a3db8b.woff"
   },
   {
-    "revision": "da0ad80ccb4425d32b662f22c7c97750",
+    "revision": "7e52ca3a0b69548c7cb2319679360f97",
     "url": "/react_pwa/index.html"
   }
 ];
